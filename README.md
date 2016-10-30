@@ -1,2 +1,3 @@
-# testingproject
-Im testing my git repository
+# Testing Project
+I'm testing my git repository
+### This is a heading!
